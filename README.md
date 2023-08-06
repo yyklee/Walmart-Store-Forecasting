@@ -1,4 +1,4 @@
-# Demand Forecasting for Walmart - Store Level Prediction
+# Walmart Demand Forecasting - Store Level Prediction
 
 Performed Demand Forecasting using time series analysis, bagging and boosting models on weekly sales data.
 
